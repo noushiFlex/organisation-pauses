@@ -3,8 +3,10 @@
 Ce projet vise à optimiser la gestion des pauses déjeuner au sein d’un établissement universitaire. Il propose une solution structurée pour améliorer l’expérience des étudiants et du personnel en réduisant le temps d’attente, en facilitant la commande et en diversifiant les moyens de paiement.  
 
 ## 📌 Contenu du dépôt  
-- 📄 **Cahier_de_charge_simplifié.docx** : Spécifications fonctionnelles et contraintes du projet.  
-- 📊 **diagramme/** : Tout les diagrammes du projets  
+- 📄 **Cahier de Charge/** : Spécifications fonctionnelles et contraintes du projet.  
+- 📊 **Diagramme/** : Tout les diagrammes du projet.
+- 💵 **Budgetisation/** : La budgetisation du projet.
+- 💵 **Planning/** : Planning du projet.
 
 ## 🎯 Objectifs du projet  
 ✅ Définir des horaires et une durée optimisés pour la pause déjeuner.  
@@ -18,3 +20,6 @@ Ce projet vise à optimiser la gestion des pauses déjeuner au sein d’un étab
 🔹 Système de réservation et précommande.  
 🔹 Gestion optimisée des transactions et de la monnaie.  
 🔹 Réduction des ruptures de stock et des erreurs de commande.  
+
+## Maquette du projet
+### -> 
