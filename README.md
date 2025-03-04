@@ -21,5 +21,5 @@ Ce projet vise à optimiser la gestion des pauses déjeuner au sein d’un étab
 🔹 Gestion optimisée des transactions et de la monnaie.  
 🔹 Réduction des ruptures de stock et des erreurs de commande.  
 
-## Maquette du projet
+## Lien vers la maquette du projet
 ### -> 
