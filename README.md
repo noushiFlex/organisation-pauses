@@ -22,4 +22,4 @@ Ce projet vise à optimiser la gestion des pauses déjeuner au sein d’un étab
 🔹 Réduction des ruptures de stock et des erreurs de commande.  
 
 ## Lien vers la maquette du projet
-### -> 
+### -> https://www.figma.com/design/QybSTnM4d6Z0CbBRLzPPqX/GROUPE-4-java?node-id=56-432&t=nXWpyFgRuZF4RaSZ-0
