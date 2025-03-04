@@ -4,8 +4,7 @@ Ce projet vise à optimiser la gestion des pauses déjeuner au sein d’un étab
 
 ## 📌 Contenu du dépôt  
 - 📄 **Cahier_de_charge_simplifié.docx** : Spécifications fonctionnelles et contraintes du projet.  
-- 📊 **Diagramme_activité_Organisation_des_pauses.svg** : Diagramme d’activité du système.  
-- 📌 **Diagramme_usecase_Organisation_des_pauses.svg** : Cas d’utilisation du système.  
+- 📊 **diagramme/** : Tout les diagrammes du projets  
 
 ## 🎯 Objectifs du projet  
 ✅ Définir des horaires et une durée optimisés pour la pause déjeuner.  
