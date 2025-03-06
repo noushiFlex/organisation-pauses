@@ -36,4 +36,4 @@
 
 ## 4. Divers et imprévus
 - **Fonds de réserve pour imprévus**  
-  Ajustement pour les besoins inattendus : **150 000 F**
+  Ajustement pour les besoins inattendus : **350 000 F**
