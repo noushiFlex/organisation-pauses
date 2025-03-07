@@ -27,7 +27,7 @@
 
 ## 3. Marketing et Communication
 - **Campagne d’information auprès des étudiants (affiches, réseaux sociaux, etc.)**  
-  Création de supports publicitaires et communication : **200 000 F**
+  Création de supports publicitaires et communication : **300 000 F**
   
 - **Programme de fidélité et remises**  
   Coût des remises ou bonus pour les utilisateurs réguliers : **300 000 F**
